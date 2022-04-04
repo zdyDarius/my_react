@@ -1,0 +1,8 @@
+name = "my_react"
+type = "webpack"
+route = 'tiny-feather-5b15.deyang-zhou-a.workers.dev'
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-04-03"
